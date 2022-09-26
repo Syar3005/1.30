@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\Lidjiev.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\Lidjiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\Lidjiev.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\Lidjiev.AssemblyInfo.cs
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\Lidjiev.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\bin\Debug\net6.0\Lidjiev.exe
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\bin\Debug\net6.0\Lidjiev.deps.json
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\bin\Debug\net6.0\Lidjiev.runtimeconfig.json
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\bin\Debug\net6.0\Lidjiev.dll
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\bin\Debug\net6.0\Lidjiev.pdb
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\Lidjiev.dll
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\refint\Lidjiev.dll
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\Lidjiev.pdb
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\Lidjiev.genruntimeconfig.cache
+C:\Users\djang\source\repos\Lidjiev\Lidjiev\obj\Debug\net6.0\ref\Lidjiev.dll
